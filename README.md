@@ -15,7 +15,9 @@ Create a plain text file that contains a list of domain names, with one domain n
 Make sure the domain names are in a valid format, for example:
 
 example.com
+
 google.co.uk
+
 apple.com
 
 4) Run the JavaScript code
