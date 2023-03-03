@@ -23,4 +23,5 @@ apple.com
 4) Run the JavaScript code
 
 Open the command window and type: node check.js
+
 All results will appear in seconds.
